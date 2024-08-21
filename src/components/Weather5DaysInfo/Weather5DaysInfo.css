@@ -46,7 +46,7 @@
         flex-direction: column;
 
         & .dayliForecast {
-            width: 50%;
+            width: 70%;
         }
     }
 
